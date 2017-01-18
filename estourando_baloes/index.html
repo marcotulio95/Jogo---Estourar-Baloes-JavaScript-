@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+
+		<title>Estourando balões</title>
+
+		<script language='Javascript'>
+			
+			function iniciarJogo(){
+					
+				var nivelJogo = document.getElementById('nivelJogo').value;
+				window.location.href = "jogo.html?" + nivelJogo;
+			}
+		</script>
+	</head>
+
+	<body>
+		<div>
+			<p>
+				<b>Nivel: </b>
+				<select id="nivelJogo">
+					<option value="1">Fácil</option>
+					<option value="2">Normal</option>
+					<option value="3">Difícil</option>
+				</select>
+			</p><br/>	
+
+			<img src="imagens/iniciar.png" onclick="iniciarJogo()">
+
+
+		</div>
+	</body>
+	
+</html>

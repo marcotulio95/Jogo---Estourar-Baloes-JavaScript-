@@ -1,0 +1,16 @@
+.principal{
+	float: 	left;	
+	width: 	auto;	
+	height: 500px;
+	background: #FFF;
+	border: 	1px solid #a2a2a2;
+	margin-right: 	5px;
+}
+
+#cenario{
+	float: left;
+	width: 600px;
+	height: 500px;
+	background: url(imagens/cenario.png);
+	background-position: bottom;
+}
