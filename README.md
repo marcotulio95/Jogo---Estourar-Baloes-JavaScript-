@@ -1,3 +1,2 @@
-# Esse jogo foi desenvolvido utilizando o m·ximo possivel apenas de JavaScript
-	O objetivo com desenvolvimento deste era apenas familirar e salientar melhor meus conheciementos
-	sobre a linguagem de programaÁ„o JavaScript
+# Esse jogo foi desenvolvido utilizando o m√°ximo possivel apenas de JavaScript
+	O objetivo com desenvolvimento deste explorar o m√°ximo possivel do JavaScript e fazer um jogo utilizando apenas essa linguagem.
